@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mufasa Snapshot Nexus Repository </name>
-	      <url>http://3.96.163.9:8081/repository/telsa-snapshot-demo-repo/</url>
+	      <url>http://99.79.65.44:8081/repository/FIFA22/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
