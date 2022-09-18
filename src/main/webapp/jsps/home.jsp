@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Landmark Technologies.</h1>
-<h2 align="center"> We are supporting the Ebay Black Friday Project.
+<h2 align="center"> We are supporting the Ebay Friday Project.
 	Landmark Technologies is a software development company. 
 	Class26 will run from sep 18, 2022.</h2>
 <hr>
